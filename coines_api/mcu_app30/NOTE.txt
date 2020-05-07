@@ -1,0 +1,4 @@
+﻿COINES library package for APP3.0 board contains only a minimal version of nRF5 v15.2.0 SDK
+
+Full package of nRF5 SDK can be downloaded from the below link
+https://developer.nordicsemi.com/nRF5_SDK/nRF5_SDK_v15.x.x/

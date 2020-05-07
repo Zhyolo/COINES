@@ -1,0 +1,7 @@
+r
+LOADFILE usb_dfu_bootloader.hex
+LOADFILE ../nRF5_SDK_15.2.0/components/softdevice/s140/hex/s140_nrf52_6.1.0_softdevice.hex
+w4 0x10001014, 0x000F0000
+r
+go
+q

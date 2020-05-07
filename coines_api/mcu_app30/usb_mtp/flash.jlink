@@ -1,0 +1,4 @@
+r
+LOADBIN usb_mtp.bin, 0x00028000
+go
+q
